@@ -12,9 +12,7 @@
     <img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width=40px height=40px>
   </h3>
   <p>
-
-    Hi, I'm Elizabeth (or Eliberp), a designer and software engineer based in Singapore.
-
+    Hi, I'm Elizabeth, a designer and software engineer based in Singapore.
     I have a keen eye for detail and am a perfectionist at heart. I love all things creative and aesthetic, and I believe that when design meets code, it can be something beautiful.
   </p>
 </div>
