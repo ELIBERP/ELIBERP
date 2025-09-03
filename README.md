@@ -11,12 +11,11 @@
     About Me
     <img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width=40px height=40px>
   </h3>
-  <p align=center>
-    Hi, I'm Elizabeth (or Eliberp), a designer and software engineer based in Singapore.<br>
-    I have a keen eye for detail and am a perfectionist at heart. I love all things creative and aesthetic, and I believe that when design meets code, it can be something beautiful.<br>
-    My creative journey began with drawing lessons at my local community center, then running a squishy Instagram account curating content for a vibrant community, building a following of over a thousand.<br>
-    Later, I learned English calligraphy online and started a business, with over 350 finished books and counting.<br>
-    When choosing my studies, I discovered coding and was fascinated by its possibilities. I am currently pursuing a Diploma in Information Technology at Singapore Polytechnic, specializing in UI/UX. I admire the intersection of design and technology and hope to continue along this path.
+  <p>
+
+    Hi, I'm Elizabeth (or Eliberp), a designer and software engineer based in Singapore.
+
+    I have a keen eye for detail and am a perfectionist at heart. I love all things creative and aesthetic, and I believe that when design meets code, it can be something beautiful.
   </p>
 </div>
 
